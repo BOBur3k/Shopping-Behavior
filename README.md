@@ -1,11 +1,8 @@
 # FlashFash Shopping Behavior Analysis
-
+![FlashFash Logo](docs/images/logo.png)
 ## Project Overview
 
 This project focuses on analyzing the shopping behavior of American consumers for FlashFash, a rapidly growing online shopping company based in Bengaluru, India. The company recently went public with a 90 Billion USD IPO valuation, allowing it to expand its operations globally. The objective is to understand the American market, identify consumer preferences, and optimize marketing strategies for better business outcomes.
-
-![FlashFash Logo](docs/images/logo.png)
-
 
 ## Observations
 
