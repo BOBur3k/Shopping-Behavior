@@ -1,23 +1,30 @@
-# shopping-behavior
+# FlashFash Shopping Behavior Analysis
 
-This project involved analyzing shopping behavior data to gain insights into American consumer preferences. 
+## Project Overview
 
-## Observations 
+This project focuses on analyzing the shopping behavior of American consumers for FlashFash, a rapidly growing online shopping company based in Bengaluru, India. The company recently went public with a 90 Billion USD IPO valuation, allowing it to expand its operations globally. The objective is to understand the American market, identify consumer preferences, and optimize marketing strategies for better business outcomes.
 
-### Workflow 
-**Exploratory Data Analysis (EDA):** Explored dataset structure and identified key variables for initial insights.
-**Data Cleaning:** Addressed missing values and outliers for dataset reliability.
-**Statistical Analysis:** Conducted t-tests to evaluate the impact of promo codes on purchase amounts.
-**Visualization:** Created graphs to highlight seasonal color preferences, popular clothing items, and review distribution.
+## Observations
 
-### Observations and Analyses
-**Popular Colors by Season:** Identified key seasonal color preferences by different seasons like Fall, Winter, Spring and Summer.
-**Popular Clothing Items:** Uncovered top clothing items per season, that can helpful in making strategic decision about stocking and pricing policies. 
-**Promo Code Impact:** Evaluated promo code effectiveness, useful in adjusting  marketing strategies.
+### Workflow
+**Context:** Analyze American market trends, focusing on seasonality, demographics, and effective outreach.
+**EDA:** Explore and clean the dataset to identify patterns.
+**Analysis:** Conduct statistical tests to assess promo code impact on purchases.
+**Visualization:** Create visuals for seasonal color preferences, popular items, and review trends.
 
-### Challenges 
-Some of the data was missing or corrupted, this resulted in less accurate statistical analysis. 
+### Findings
+**Seasonal Color Preferences:** Identified key color trends for Fall, Winter, Spring, and Summer.
+**Popular Clothing Items:** Uncovered top items per season for strategic stocking and pricing decisions.
+**Promo Code Impact:** Evaluated effectiveness, guiding adjustments to marketing strategies.
+**Review Trends:** Explore trends in customer reviews, including the specified timing of leaving reviews (at first purchase or for returning customers).
 
-### Next Steps 
-More data should be collected and more detailed information should be collected in order to create a customer persona that can be helpful in determining efficient marketing strategies. More data will help to create new data driven marketing strategies and give possibility for A|B testing. 
-Also, understaing the purchase process of our customer persona can be helpful to optimaze our website and improve the customer expereince. More data will help to detemine the areas for improvement. 
+### Challenges
+Handled missing data, ensured statistical robustness, and created impactful visuals.
+
+### Next Steps
+**Deeper Segmentation:** Consider more detailed customer profiling for targeted insights.
+**Advanced Modeling:** Explore advanced analytical techniques for comprehensive understanding.
+**Customer Persona:** Develop a detailed customer persona for efficient marketing strategies.
+**Website Optimization:** Understand the customer purchase process to optimize the website and enhance the user experience.
+
+This analysis equips FlashFash with actionable data for better operations, inventory management, and strategic marketing decisions.
